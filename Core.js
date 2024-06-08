@@ -51,17 +51,17 @@ const { MessageType } = require('@whiskeysockets/baileys');
 let nowtime = '';
 
 if (time2 < "05:00:00") {
-  nowtime = '𝘎𝘖𝘖𝘋 𝘕𝘐𝘎𝘏𝘛 🦋💞';
+  nowtime = '𝘎𝘖𝘖𝘋 𝘕𝘐𝘎𝘏𝘛 🌝💞';
 } else if (time2 < "11:00:00") {
-  nowtime = '𝘎𝘖𝘖𝘋 𝘔𝘖𝘙𝘕𝘐𝘕𝘎 💞🦋';
+  nowtime = '𝘎𝘖𝘖𝘋 𝘔𝘖𝘙𝘕𝘐𝘕𝘎 💞🌝';
 } else if (time2 < "15:00:00") {
-  nowtime = '𝘎𝘖𝘖𝘋 𝘈𝘍𝘛𝘌𝘙𝘕𝘖𝘖𝘕 💞🦋';
+  nowtime = '𝘎𝘖𝘖𝘋 𝘈𝘍𝘛𝘌𝘙𝘕𝘖𝘖𝘕 💞🌝';
 } else if (time2 < "18:00:00") {
-  nowtime = '𝘎𝘖𝘖𝘋 𝘌𝘝𝘌𝘕𝘐𝘕𝘎 💞🦋';
+  nowtime = '𝘎𝘖𝘖𝘋 𝘌𝘝𝘌𝘕𝘐𝘕𝘎 💞🌝';
 } else if (time2 < "19:00:00") {
-  nowtime = '𝘎𝘖𝘖𝘋 𝘌𝘝𝘌𝘕𝘐𝘕𝘎 💞🦋';
+  nowtime = '𝘎𝘖𝘖𝘋 𝘌𝘝𝘌𝘕𝘐𝘕𝘎 💞🌝';
 } else {
-  nowtime = '𝘎𝘖𝘖𝘋 𝘕𝘐𝘎𝘏𝘛 💞🦋';
+  nowtime = '𝘎𝘖𝘖𝘋 𝘕𝘐𝘎𝘏𝘛 💞🌝';
 }
 
 
@@ -637,7 +637,7 @@ Typed *surrender* to surrender and admited defeat`
   
   
   if (smallinput=='runtime') {
-    reply (`Hi💞 ${pushname}🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋${runtime(process.uptime())}\n\nCurrent Time: ${kaitime}\n\nCurrent Date: ${kaidate}`)
+    reply (`Hi💞 ${pushname}🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️${runtime(process.uptime())}\n\nCurrent Time: ${kaitime}\n\nCurrent Date: ${kaidate}`)
   }
   
   
@@ -662,8 +662,8 @@ Typed *surrender* to surrender and admited defeat`
   }
   
   if (smallinput=='ping') {
-      reply (`𝘏𝘐🦋 ${pushname} 𝘗𝘖𝘕𝘎 ${latensie.toFixed(4)} 𝘔;𝘚
-      🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋`)
+      reply (`𝘏𝘐🧛‍♂️ ${pushname} 𝘗𝘖𝘕𝘎 ${latensie.toFixed(4)} 𝘔;𝘚
+      🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️`)
   }
   
   
@@ -674,13 +674,13 @@ Typed *surrender* to surrender and admited defeat`
   
   if (smallinput.includes('good afternoon') || smallinput.includes('konnichiwa')) {
   
-    reply (`Good afthernoon to you too ${pushname} 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋.`);
+    reply (`Good afthernoon to you too ${pushname} 🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️.`);
   
   }
   
   
   //if (smallinput.includes('good afthernoon')) {
-   // reply (`Huh ${pushname} 😇.🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋`);
+   // reply (`Huh ${pushname} 😇.🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️`);
   //   }
   
   
@@ -699,15 +699,15 @@ Typed *surrender* to surrender and admited defeat`
 
       hello: `Hello ${pushname}, I am ${BotName}. My current prefix is "${prefix}". How can I help you?`,
       kai: `My Boss is lost in another Multiverse, and I lost connection with him...`,
-      runtime: `🦋𝘏𝘐 ${pushname}\n${nowtime}\n\n🦋𝘙𝘜𝘕𝘛𝘐𝘔𝘌:${runtime(process.uptime())}\n\n🦋𝘗𝘙𝘌𝘍𝘐𝘟: *${prefix}*\n\n🦋𝘛𝘐𝘔𝘌: ${kaitime}\n\n🦋𝘋𝘈𝘛𝘌: ${kaidate}\n\n🦋𝘛𝘰𝘥𝘢𝘺 𝘪𝘴 ${currentDay}`,
+      runtime: `🧛‍♂️𝘏𝘐 ${pushname}\n${nowtime}\n\n🧛‍♂️𝘙𝘜𝘕𝘛𝘐𝘔𝘌:${runtime(process.uptime())}\n\n🧛‍♂️𝘗𝘙𝘌𝘍𝘐𝘟: *${prefix}*\n\n🧛‍♂️𝘛𝘐𝘔𝘌: ${kaitime}\n\n🧛‍♂️𝘋𝘈𝘛𝘌: ${kaidate}\n\n🦋𝘛𝘰𝘥𝘢𝘺 𝘪𝘴 ${currentDay}`,
       konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
-      alive: '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋',
+      alive: '🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️',
       ping: `Hi🛡️ ${pushname}, Pong ${latensie.toFixed(4)} ms`,
-      'good morning': `Good morning💞🦋.`,
+      'good morning': `Good morning💞🌝.`,
       ohayo: `Good morning to you too ${pushname} ☺️. Have a great day 😇.`,
-      'good afternoon': `Good afternoon💞🦋.`,
+      'good afternoon': `Good afternoon💞🌝.`,
       konnichiwa: `Good afternoon to you too ${pushname} ✨. Wishing you an enjoyable afternoon too 😇🤞🏻.`,
-      'good night': `Good night💞🦋`,
+      'good night': `Good night💞🌝`,
 
     };
 
@@ -736,7 +736,7 @@ Typed *surrender* to surrender and admited defeat`
         let { data } = await axios.get('https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4');
         teks = `
 ┌───────────────       
-│ *®-ᴄʏʙᴇʀ-ᴘᴀɴᴅᴀ-ᴍᴅ*
+│ *🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️*
 ├───────────────
 │ *Total Stars* ${data.stargazers_count}
 ├───────────────
@@ -758,7 +758,7 @@ Typed *surrender* to surrender and admited defeat`
            headerType: 4, */
           contextInfo: {
             externalAdreply: {
-              title: "Powered by Kai",
+              title: "Powered by Dark Shadow Modz",
               body: " ",
               thumbnail: fs.readFileSync("Assets/pic2.jpg"),
               mediaType: 1,
@@ -2762,8 +2762,8 @@ Typed *surrender* to surrender and admited defeat`
         A17.sendMessage(from, { react: { text: "💞", key: m.key } });
 
         if (!args[0]) {
-          return reply(`Please provide the GitHub repository link.\nExample:\n${prefix}${command} https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4
-🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
+          return reply(`Please provide the GitHub repository link.\nExample:\n${prefix}${command} https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V. 
+          🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️
           `);
         }
 
@@ -2800,7 +2800,7 @@ Typed *surrender* to surrender and admited defeat`
         A17.sendMessage(from, { react: { text: "🫡", key: m.key } })
 
         let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
-        let teks = ` 「  🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋 user list  」\n\nTotal ${anu.length} users are using A17 in personal chat.`
+        let teks = ` 「  🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️ user list  」\n\nTotal ${anu.length} users are using A17 in personal chat.`
         for (let i of anu) {
           teks += `\n\nProfile : @${i.id.split('@')[0]}\nChat : ${i.unreadCount}\nLastchat : ${moment(i.conversationTimestamp * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}`
         }
@@ -2815,7 +2815,7 @@ Typed *surrender* to surrender and admited defeat`
         A17.sendMessage(from, { react: { text: "🫡", key: m.key } })
 
         let anu = await store.chats.all().filter(v => v.id.endsWith('@g.us')).map(v => v.id)
-        let teks = ` 「  🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋 group user list  」\n\nTotal ${anu.length} users are using bot in Groups.`
+        let teks = ` 「  🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️ group user list  」\n\nTotal ${anu.length} users are using bot in Groups.`
         for (let i of anu) {
           let metadata = await A17.groupMetadata(i)
           if (metadata.owner === "undefined") {
@@ -3551,7 +3551,7 @@ Typed *surrender* to surrender and admited defeat`
         if (!m.isGroup) return reply(mess.grouponly);
         if (!isAdmins && !isCreator) return reply(mess.useradmin)
         A17.sendMessage(from, { react: { text: "💬", key: m.key } })
-        A17.sendMessage(m.chat, { text: args.join("🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋") ? args.join("🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋") : '', mentions: participants.map(a => a.id) }, { quoted: m })
+        A17.sendMessage(m.chat, { text: args.join("🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️") ? args.join("🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️") : '', mentions: participants.map(a => a.id) }, { quoted: m })
       }
         break;
 
@@ -3561,7 +3561,7 @@ Typed *surrender* to surrender and admited defeat`
         if (isBanChat) return reply(mess.bangc);
         if (!m.isGroup) return reply(mess.grouponly);
         A17.sendMessage(from, { react: { text: "🗿", key: m.key } })
-        if (!text) return reply(`*🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋*`)
+        if (!text) return reply(`*🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️*`)
         let teks = `*「 Tag Admins 」*
 
 *Message : ${text}*\n\n`
@@ -5083,7 +5083,7 @@ _Click the button below to download_`
           contextInfo: {
             mentionedJid: [m.sender],
             externalAdReply: {
-              title: "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋",
+              title: "🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️",
               body: `Now playing: ${bname}`,
               thumbnailUrl: bimg,
               sourceUrl: burl,
@@ -5769,7 +5769,7 @@ _Click the button below to download_`
         if (!isUrl(args[0]) && !args[0].includes('mediafire.com')) return reply(`The link you provided is invalid`)
         const baby1 = await mediafireDl(text)
         if (baby1[0].size.split('MB')[0] >= 999) return reply('*File Over Limit* ' + util.format(baby1))
-        const result4 = `━━━❬❬🦋 *Mediafire Downloader* 🦋❭❭━━━   
+        const result4 = `━━━❬❬🧛‍♂️ *Mediafire Downloader* 🧛‍♂️❭❭━━━   
 *Name* : ${baby1[0].nama}
 *Size* : ${baby1[0].size}
 *Mime* : ${baby1[0].mime}
@@ -6916,7 +6916,7 @@ _Click the button below to download_`
           if (isBanChat) return reply(mess.bangc);
           A17.sendMessage(from, { react: { text: "💫", key: m.key } })
 
-          reply(`🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋`)
+          reply(`🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️`)
         }
 
         break;
@@ -6987,7 +6987,7 @@ _Click the button below to download_`
           if (isBanChat) return reply(mess.bangc);
           A17.sendMessage(from, { react: { text: "🔑", key: m.key } })
 
-          reply(`🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋`)
+          reply(`🧛‍♂️ |𝐂𝐘𝐁𝜩𝐑|𝐒𝐔𝐏𝐔𝐍|𝐌𝐃|𝐕1 🧛‍♂️`)
         }
 
         break;
