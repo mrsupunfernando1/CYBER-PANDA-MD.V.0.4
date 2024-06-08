@@ -24,7 +24,7 @@ ____________________
 ➅. [Watch Videos](https://youtu.be/amorCyDpKIo?si=BR2yG4lG4RCHSWRs)
 
 <p align="center"> 
-<u>🎯 ＣＹＢＥＲ-ＰＡＮＤＡ-ＭＤ 🎯</u>
+<u>👨‍💻 ＣＹＢＥＲ-ＳＵＰＵＮ-ＭＤ 👨‍💻</u>
 </p>
 <p align="center">
 <img src="https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3/assets/133668461/1f9ce998-691d-4394-ae3e-be7f3f51d4c6" width="300" height="300"/>
@@ -39,12 +39,12 @@ ____________________
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Sachith.Chandra-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center"> 
-<u>🎯 ＣＹＢＥＲ-ＰＡＮＤＡ-ＭＤ 🎯</u>
+<u>👨‍💻 ＣＹＢＥＲ-ＳＵＰＵＮ-ＭＤ 👨‍💻</u>
 </p>
 
-[🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
+[🌺 𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🌺 ](https://youtube.com/@darkshadow_modz)
 
-[💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev)
+[💞 𝘍𝘖𝘓𝘓𝘖𝘞 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://whatsapp.com/channel/0029VaXRYlrKwqSMF7Tswi38)
 
 
 ____________________
@@ -60,7 +60,7 @@ ____________________
 
  
  <p align="left">
-<a href="https://youtu.be/amorCyDpKIo?si=VIw9mxSA5ruc6UKi"><img align="center" src="https://i.imgur.com/fYDmZGF.png" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtube.com/@darkshadow_modz"><img align="center" src="https://i.imgur.com/fYDmZGF.png" alt="DEPLOY" height="110" width="200" /></a>
 
 ____________________
 
